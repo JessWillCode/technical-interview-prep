@@ -50,9 +50,6 @@ It includes implementations of **data structures, algorithms, problem solutions,
 
 ## 🛠️ Tech Stack
 - **Languages:** TypeScript, JavaScript, Python, SQL
-- **Tools:** Node.js, Jest, Git/GitHub
-- **Other:** Problem-solving on LeetCode, Neetcode, and custom practice
-
 ---
 
 ## ✅ How I Use This Repo
