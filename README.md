@@ -49,7 +49,7 @@ It includes implementations of **data structures, algorithms, problem solutions,
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Languages:** JavaScript, Python, SQL
 ---
 
 ## ✅ How I Use This Repo

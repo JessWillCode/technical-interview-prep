@@ -1,0 +1,20 @@
+{
+  "name": "technical-interview-prep",
+  "version": "1.0.0",
+  "description": "A collection of coding interview problems, data structures, algorithms, and system design notes for practice and reference.",
+  "main": "index.js",
+  "scripts": {
+    "gen:index": "node generate-index.js"
+  },
+  "keywords": [
+    "interview",
+    "coding-problems",
+    "data-structures",
+    "algorithms",
+    "javascript",
+    "python"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
