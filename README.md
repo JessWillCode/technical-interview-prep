@@ -16,10 +16,35 @@ It includes implementations of **data structures, algorithms, problem solutions,
 ---
 
 ## 🚀 Goals
-- Strengthen problem-solving skills in **TypeScript, JavaScript, and Python**
-- Master **data structures & algorithms** for technical interviews
-- Practice **system design** for senior-level interviews
-- Track progress and reflect on growth
+- [ ] Strengthen problem-solving skills in **TypeScript, JavaScript, and Python**
+- [ ] Master **data structures & algorithms** for technical interviews
+- [ ] Practice **system design** for senior-level interviews
+- [ ] Track progress and reflect on growth
+- [ ] Stay consistent: solve around **10 problems per week**
+
+---
+
+## 📈 Roadmap / Progress Tracker
+
+### ✅ Data Structures
+- [ ] Linked List – basics, add, delete, reverse
+- [ ] Stack & Queue
+- [ ] Binary Tree – traversal, BFS/DFS
+- [ ] Binary Search Tree
+- [ ] Graph – adjacency list, traversal
+
+### ✅ Algorithms
+- [ ] Two Pointers (e.g., Add Two Numbers, Merge Sorted Lists)
+- [ ] Sliding Window
+- [ ] Recursion & Backtracking
+- [ ] Dynamic Programming (Fibonacci, Knapsack, etc.)
+- [ ] Sorting & Searching (QuickSort, MergeSort, Binary Search)
+
+### ✅ Systems & Concepts
+- [ ] Big-O Complexity Review
+- [ ] Common System Design Patterns (Load Balancer, Caching, etc.)
+- [ ] SQL Query Practice
+- [ ] Behavioral Interview Prep
 
 ---
 
